@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private ConstraintLayout serviceToefl;
     private  TextView callbtn;
     private  ConstraintLayout banner;
+    int x = 5;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
